@@ -1,0 +1,35 @@
+.hyperlink {
+  background-color: white;
+  padding: 20px;
+  margin-top: -10px;
+  margin-left: -5px;
+  margin-right: -5px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.body {
+  background-color: #dbf3fa;
+}
+
+.title {
+  color: darkblue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+.mtext {
+  color: black;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.table {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
